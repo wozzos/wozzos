@@ -5,7 +5,7 @@ I started working as a freelance developer in 2018.
 I am the co-founder of the two-men-team called Sleepless Vulture and we are developing a videogame called Rotor, awarded Epic Megagrant in January 2021.
 
 For this project (Rotor) I am working mainly as Lead Programmer.
-//However, during there years I learned a lot about the Engine and now I own a deep understanding of:
+However, during there years I learned a lot about the Engine and now I own a deep understanding of:
 - Blueprints
 - C++
 - Blueprints and C++ workflow
@@ -15,11 +15,11 @@ For this project (Rotor) I am working mainly as Lead Programmer.
 - Console development
 - Optimization
 
-//Also I have experience with Azure Playfab. I worked with:
+Also I have experience with Azure Playfab. I worked with:
 - API call
 - JSON cloud script
 
-//Extra:
+Extra:
 - 3d Modeling
 - ZBrush
 
