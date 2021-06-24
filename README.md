@@ -4,6 +4,8 @@ I started working as a freelance developer in 2018.
 
 I am the co-founder of the two-men-team called Sleepless Vulture and we are developing a videogame called Rotor, awarded Epic Megagrant in January 2021.
 
+( Rotor: https://www.youtube.com/watch?v=MCmKC1_M26Q)
+
 For this project (Rotor) I am working mainly as Lead Programmer.
 However, during there years I learned a lot about the Engine and now I own a deep understanding of:
 - Blueprints
