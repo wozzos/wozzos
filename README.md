@@ -19,8 +19,12 @@ Also I have experience with Azure Playfab. I worked with:
 - API call
 - JSON cloud script
 
+Extra:
+- 3d Modeling
+- ZBrush
 
-- 👀 I’m interested in everything that concerns videogames and Unreal Engine. I am passionate about my job and I always looking for new challenges to deal with.
+
+- 👀 I’m interested in everything that concerns videogames and Unreal Engine. I am passionate about my job and I am always looking for new challenges.
 
 - 🌱 I’m currently learning VR development on Unreal Engine.
 
