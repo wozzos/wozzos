@@ -30,10 +30,6 @@ Extra:
 
 - 🌱 I’m currently learning VR development on Unreal Engine.
 
-- 💞️ I’m looking to collaborate on new projects!
-
-
-
 - 📫 Reach me! I am looking for new projects!
 
 - LinedIn: https://www.linkedin.com/in/riccardoiengo/
