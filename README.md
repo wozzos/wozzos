@@ -7,30 +7,29 @@ I am the co-founder of the two-men-team called Sleepless Vulture and we are deve
 ( Rotor: https://www.youtube.com/watch?v=MCmKC1_M26Q)
 
 For this project (Rotor) I am working mainly as Lead Programmer.
+
 However, during there years I learned a lot about the Engine and now I own a deep understanding of:
 - Blueprints
 - C++
 - Blueprints and C++ workflow
+- UMG
 - Multiplayer and replication system
-- Animations, Sequencer
+- Animations, Sequencer, Behaviour Trees
 - Shaders, Lighting and VFX
-- Console development
 - Optimization
 
-Also I have experience with Azure Playfab. I worked with:
-- API call
-- JSON cloud script
+Also I have experience with Azure Playfab.
 
 Extra:
+- VR development
+- Ultraleap motion track
+- Javascript
 - 3d Modeling
 - ZBrush
 
 
 - 👀 I’m interested in everything that concerns videogames and Unreal Engine. I am passionate about my job and I am always looking for new challenges.
 
-- 🌱 I’m currently learning VR development on Unreal Engine.
-
-- 📫 Reach me! I am looking for new projects!
 
 - LinedIn: https://www.linkedin.com/in/riccardoiengo/
 - e-mail:  riccardoiengo@gmail.com
