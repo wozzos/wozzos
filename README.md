@@ -1,6 +1,6 @@
-///////////////////////////////////////////////////////
+
 - 👋 Hi, I’m @wozzos Riccardo! I am a Game Developer!
-///////////////////////////////////////////////////////
+
 
 I started working as a freelance developer in 2018.  
 I am the co-founder of the two-men-team called Sleepless Vulture and we are developing a videogame called Rotor, awarded Epic Megagrant in January 2021.
