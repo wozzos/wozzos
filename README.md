@@ -30,7 +30,7 @@ Extra:
 - 👀 I’m interested in everything that concerns videogames and Unreal Engine. I am passionate about my job and I am always looking for new challenges.
 
 
-- LinedIn: https://www.linkedin.com/in/riccardoiengo/
+- LinkedIn: https://www.linkedin.com/in/riccardoiengo/
 - e-mail:  riccardoiengo@gmail.com
 - Discord: Wozzos#5953
 
